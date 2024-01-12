@@ -4,6 +4,8 @@ This repository will record my learning for the The Professional Scrum Master™
 
 The objetive is to get a deeper understanding of **agile methodologies**, particularly in the context of software development,  testing or cloud projects. This knowledge will help me to collaborate more effectively with agile teams and contribute to the successful delivery of software products.
 
+
+![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-09/scrum-framework-with-sdo-logo-9.29.23.png)
 Join me on this journey, whether you're also preparing for the PSM I or interested in agile methodologies.
 
 The material use for this preparation are base on [Professional Scrum Master™ I Certification,  Scrum.org](https://www.scrum.org/assessments/professional-scrum-master-i-certification)
