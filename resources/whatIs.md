@@ -71,10 +71,12 @@ Succeding with Agile and Scrum requires being rapid (fast) and lean (no waste)
 4. Responding to change OVER following a plan.
 ```
 ### Process
+```
 1. Projects
 2. Product
 3. People
 4. Process
+```
 
 
 
