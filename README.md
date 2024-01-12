@@ -14,4 +14,6 @@ You can download the guides usigin the link below:<br>
 
 
 # Index
-[Introduction](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/introduction.md)
+* [Introduction](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/introduction.md)
+* [What is Scrum and Agile](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/whatIs.md)
+*
