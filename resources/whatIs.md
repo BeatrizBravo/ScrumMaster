@@ -58,19 +58,19 @@ Succeding with Agile and Scrum requires being rapid (fast) and lean (no waste)
 
 ### Mindset 
 => uncovere => we don't assume we know how to solve a problem.
-```shell
+```
 1. set back -> learning opportunities
 2. Adap short delivery cycles, collaboration, and change.
 3. Focus on delivering value.
 ```
 ### Values
-```shell
+```
 1. individual and interactions OVER processes and tools => share knowlodge to solve the complex and get the best solution.
 2. working software OVER comprehensive documentation =>something to see or touch
 3. Customer collaboration OVER contract negotiation.
 4. Responding to change OVER following a plan.
 ```
-### Principles
+### Process
 1. Projects
 2. Product
 3. People
