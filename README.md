@@ -6,6 +6,8 @@ The objetive is to get a deeper understanding of **agile methodologies**, partic
 
 
 ![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-09/scrum-framework-with-sdo-logo-9.29.23.png)
+
+
 Join me on this journey, whether you're also preparing for the PSM I or interested in agile methodologies.
 
 The material use for this preparation are base on [Professional Scrum Master™ I Certification,  Scrum.org](https://www.scrum.org/assessments/professional-scrum-master-i-certification)
