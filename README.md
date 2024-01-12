@@ -13,3 +13,5 @@ You can download the guides usigin the link below:<br>
 &emsp;&emsp;**[Official guide](https://scrumguides.org/index.html)**
 
 
+# Index
+[Introduction](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/introduction.md)
