@@ -39,7 +39,9 @@ The new value that we add to the product, for example before we did not have the
 - Scrum team - developers
 - Scrum master
 
-
+# Goal of scrum 
+Delivery value
+<br>Satisfying users and bringing benefits such as profits to the producers.
 # Other info
 [Glossary of Scrum Terms
 ](https://www.scrum.org/resources/scrum-glossary)
