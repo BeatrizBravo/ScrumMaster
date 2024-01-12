@@ -6,5 +6,10 @@ The objetive is to get a deeper understanding of **agile methodologies**, partic
 
 Join me on this journey, whether you're also preparing for the PSM I or interested in agile methodologies.
 
-The material use for this preparation are base on [Certification Guide Scrum Guide Scrum.org](https://www.scrum.org/assessments/professional-scrum-master-i-certification)
+The material use for this preparation are base on [Professional Scrum Master™ I Certification,  Scrum.org](https://www.scrum.org/assessments/professional-scrum-master-i-certification)
+
+
+You can download the guides usigin the link below:<br>
+&emsp;&emsp;**[Official guide](https://scrumguides.org/index.html)**
+
 
