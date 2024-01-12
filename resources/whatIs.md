@@ -57,7 +57,7 @@ Succeding with Agile and Scrum requires being rapid (fast) and lean (no waste)
 
 
 ### Mindset 
-=> uncovere => we don't assume we know how to solve a problem.
+=> uncover => we don't assume we know how to solve a problem.
 ```
 1. set back -> learning opportunities
 2. Adap short delivery cycles, collaboration, and change.
