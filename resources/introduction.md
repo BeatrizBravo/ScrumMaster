@@ -1,6 +1,7 @@
 Team has a problem = A client wants a website to sell products.
 
-What problem? The team wants to build new software (website) or adding new features or fixes to an existing one or develop something for a company.
+## What problem? 
+The team wants to build new software (website) or adding new features or fixes to an existing one or develop something for a company.
 
 
 In Scrum, the team breaks the problem into smaller chunks.
@@ -14,13 +15,13 @@ Example: Create an e-commerce website, we need (to-do list):
 6. etc.
 
 
-Product Backlog = to-do list 
+Product Backlog = to-do list (requirements document)
 
 This list is ordered,  the top has a higher priority than the work on the bottom.
 
 ### what Events happens using Scrum?
 - Create the Product Backlog, Make the to-do list for the ecommerce => **Spring Planning**
-- Execute the items on the Product Backlog, take. 1st pring we take item 1 y 2 => **Spring** 
+- Execute the items on the Product Backlog, take. 1st spring we take item 1 y 2 => **Spring** 
 - The team will notify the progress made each day, if something is finished, if there is a problem or if help from others is needed or if something is blocking a task from being completed. Keep focus in achieve the Spring => **Daily Scrum** 
 - We finish a spring, and we show what we have achieved in that time  a **product** **Increment** is delivered and inspected. We have the sign-up and the login pages=> Spring Review
 - As a team we value how we did when we were working as a team and we see how to improve next time => **Spring Restropective**
