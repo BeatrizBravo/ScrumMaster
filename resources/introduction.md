@@ -45,3 +45,15 @@ The new value that we add to the product, for example before we did not have the
 ](https://www.scrum.org/resources/scrum-glossary)
 
 [Scrum Developer Glossary](https://www.scrum.org/resources/professional-scrum-developer-glossary)
+
+* ProductBacklog
+* Spring Backlog
+* Increment
+- Product Owner
+- Developers
+- Scrum Master
+* spring
+* spring planning
+* daily scrum
+* spring review
+* spring restrospective
