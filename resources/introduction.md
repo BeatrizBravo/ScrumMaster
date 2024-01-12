@@ -34,8 +34,14 @@ This list is ordered,  the top has a higher priority than the work on the bottom
 ### what is an Increment?
 The new value that we add to the product, for example before we did not have the login page and now we do.
 
-# How participate in the scrum team / accountabilities?
+# Who participate / accountabilities?
 - Product Owner, create the backlog from the customer Proporsal
 - Scrum team - developers
 - Scrum master
 
+
+# Other info
+[Glossary of Scrum Terms
+](https://www.scrum.org/resources/scrum-glossary)
+
+[Scrum Developer Glossary](https://www.scrum.org/resources/professional-scrum-developer-glossary)
