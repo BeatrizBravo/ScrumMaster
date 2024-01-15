@@ -1,6 +1,6 @@
 # Introduction
 
-This repository will record my learning for the The Professional Scrum Master™ I (PSM I).
+This repository will record my learning for The Professional Scrum Master™ I (PSM I).
 
 The objetive is to get a deeper understanding of **agile methodologies**, particularly in the context of software development,  testing or cloud projects. This knowledge will help me to collaborate more effectively with agile teams and contribute to the successful delivery of software products.
 
@@ -37,3 +37,4 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Introduction](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/introduction.md)
 * [What is Scrum and Agile](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/whatIs.md)
 * [Springs events](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/spring.md)
+* [Scrum Theory](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/theory.md)
