@@ -38,3 +38,4 @@ Various processes, techniques and methods can be employed within the framework. 
 * [What is Scrum and Agile](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/whatIs.md)
 * [Springs events](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/spring.md)
 * [Scrum Theory](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/theory.md)
+* [Scrum Team](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/team.md)
