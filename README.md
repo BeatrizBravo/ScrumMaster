@@ -41,3 +41,9 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Scrum Team](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/team.md)
 * [Scrum Artifact](./resources/artifact.md)
 * [Product Backlog](./resources/Product.md)
+
+
+
+
+#  Other info
+[Ace the Professional Scrum Master I Certification with These Tips](https://medium.com/@mirkoperkusich/ace-the-professional-scrum-master-i-certification-with-these-tips-1e9ad998587c)
