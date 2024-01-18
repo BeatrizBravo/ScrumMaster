@@ -41,6 +41,7 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Scrum Team](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/team.md)
 * [Scrum Artifact](./resources/artifact.md)
 * [Product Backlog](./resources/Product.md)
+* [Increment](./resources/increment.md)
 
 
 
