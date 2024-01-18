@@ -40,3 +40,4 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Scrum Theory](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/theory.md)
 * [Scrum Team](https://github.com/BeatrizBravo/ScrumMaster/blob/main/resources/team.md)
 * [Scrum Artifact](./resources/artifact.md)
+* [Product Backlog](./resources/Product.md)
