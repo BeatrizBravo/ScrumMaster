@@ -54,6 +54,9 @@ be aware of his/her to-do list"
   - dependencies
 
 - The PO **orders** it considering whatever he/she judges as appropriate
+- The PB **commit** to a Product Goal
+- (false => For the Product Goal to be fulfilled, all the PB items mus be done) 
+- (false =>the Product Goal  represents the DESIRED end state whenever all the PB items mus be done) 
 
 ## Sizing the PB Items
 Stimation or Size or Sizing
@@ -108,6 +111,10 @@ Unknown desires
 * Acceptance criteria defined
 * Team understands what has to be done
 * Fits a sprint
+
+
+_Product Backlog items that **can be Done** by the Scrum Team **within one Sprint** are **deemed** **ready** for selection in a Sprint Planning event_
+
 # Monitoring Progress Toward Goals
 ### Burn-down
 ### Burn-uo
