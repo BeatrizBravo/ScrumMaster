@@ -42,6 +42,8 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Scrum Artifact](./resources/artifact.md)
 * [Product Backlog](./resources/Product.md)
 * [Increment](./resources/increment.md)
+* [Event](./resources/scrumflow.md)
+
 
 
 
