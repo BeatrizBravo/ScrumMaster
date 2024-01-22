@@ -43,6 +43,7 @@ Various processes, techniques and methods can be employed within the framework. 
 * [Product Backlog](./resources/Product.md)
 * [Increment](./resources/increment.md)
 * [Event](./resources/scrumflow.md)
+* [Scaled scrum](./resources/scaleScrum.md)
 
 
 
